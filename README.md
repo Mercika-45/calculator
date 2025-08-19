@@ -4,35 +4,36 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 
 
 
-## 📸 Screenshot
+##  Screenshot
 <p align="center">
   <img src="screenshot.png" alt="Calculator Screenshot" width="400"/>
 </p>
 
 
-## ✨ Features
+##  Features
 - ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division  
-- ⌫ Delete (backspace) support  
-- 🔄 Clear button to reset screen  
-- ✅ Real-time calculation with JavaScript `eval()`  
-- 📱 Responsive design  
+- Delete (backspace) support  
+-  Clear button to reset screen  
+-  Real-time calculation with JavaScript `eval()`  
+-  Responsive design  
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling  
 - **JavaScript (ES6)** – Functionality  
 
 
-## 📂 Project Structure
+##  Project Structure
 calculator/
 │── index.html # Main calculator interface
 │── style.css # Styling for the calculator
 │── screenshot.png # App preview image
 
-## 📌 Future Improvements
-
-Add keyboard input support ⌨️
-Add history of calculations 📝
-Add dark & light themes 🌗
+##  Future Improvements
+<ul>
+<li>Add keyboard input support</li> 
+<li>Add history of calculations </li>
+<li>Add dark & light themes </li>
+</ul>
