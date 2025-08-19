@@ -32,8 +32,6 @@ calculator/
 │── screenshot.png # App preview image
 
 ##  Future Improvements
-<ul>
-<li>Add keyboard input support</li> 
-<li>Add history of calculations </li>
-<li>Add dark & light themes </li>
-</ul>
+- Add keyboard input support 
+- Add history of calculations 
+- Add dark & light themes 
