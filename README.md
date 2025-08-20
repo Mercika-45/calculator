@@ -31,6 +31,19 @@ calculator/
 │── style.css # Styling for the calculator
 │── screenshot.png # App preview image
 
+##  Live Demo
+👉 [Click here to try the calculator](https://Mercika-45.github.io/calculator/)
+
+## ⚙️ How to Use
+1. Clone this repository:
+   git clone https://github.com/Mercika-45/calculator.git
+2. Open index.html in your browser.
+3. Start calculating!
+
+## License
+
+This project is licensed under the MIT License – you are free to use, modify, and share it.
+
 ##  Future Improvements
 - Add keyboard input support 
 - Add history of calculations 
